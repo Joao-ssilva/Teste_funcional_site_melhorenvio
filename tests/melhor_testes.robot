@@ -16,8 +16,8 @@ Caso Teste 01 - Preenche Dados para Envio de frete
     Verificar se a frase "Calculadora de fretes" esta visivel
     Clicar no campo de "CEP de origem"
     escrever o Cep de origem 
-    Clicar no campo "CEP de destino"    
+    Clicar no campo "CEP de destino"
     Escrever o Cep de destino
     Escrever o Valor da carga R$100,00  
     Clicar no Botao Calcular  
-    Deverar ir para a página "Calculadora de fretes" 
+    Deverar ir para a página "Calculadora de fretes"
