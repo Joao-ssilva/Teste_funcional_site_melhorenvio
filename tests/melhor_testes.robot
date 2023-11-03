@@ -9,6 +9,7 @@ Test Teardown    Fechar navegador
 Caso Teste 01 - Preenche Dados para Envio de frete 
     [Documentation]   Esse teste preenche os dados para o frete de um produto   
     [Tags]            preecher_dados de Localização
+    
     Acessar a home page do site Melhorenvio.com.br
     verificar se aparecer o botao "Cadastre-se grátis"  
     Verificar se o titulo da página fica "Melhor Envio | Economize na gestão de fretes"
